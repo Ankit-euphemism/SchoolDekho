@@ -153,3 +153,9 @@ client/.env.*
 server/.env
 server/.env.*
 !server/.env.example
+
+DEPLOY_RENDER.md
+DEPLOY_VERCEL.md
+DEPLOYMENT_CHECKLIST.md
+PRODUCTION_FEATURES.md
+QUICK_REFERENCE.md
